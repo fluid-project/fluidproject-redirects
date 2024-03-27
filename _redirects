@@ -1,2 +1,5 @@
-/display/*    https://fluidproject.atlassian.net/wiki/display/:splat    301!
-/             https://fluidproject.atlassian.net/wiki    301!
+https://issues.fluidproject.org/browse/*    https://fluidproject.atlassian.net/browse/:splat    301!
+https://issues.fluidproject.org/issues      https://fluidproject.atlassian.net/issues    301!
+https://issues.fluidproject.org/            https://fluidproject.atlassian.net/jira    301!
+https://wiki.fluidproject.org/display/*    https://fluidproject.atlassian.net/wiki/display/:splat    301!
+https://wiki.fluidproject.org/             https://fluidproject.atlassian.net/wiki    301!
